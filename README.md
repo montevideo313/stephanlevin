@@ -16,10 +16,5 @@ This repository hosts scripts and other digital content used for my personal por
 HTML scripts used for the 3D Anatomy player on my website, using [Google's model-viewer web component](https://modelviewer.dev).
 The scripts are embedded using an iframe element:
 
-<iframe 
-  src="https://montevideo313.github.io/stephanlevin/model-viewer/coming-soon.html" 
-  style="position: relative; top: 0; left: 0; width: 100%; height: 400px;" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+![Demo](https://montevideo313.github.io/stephanlevin/model-viewer/coming-soon.html)
 
