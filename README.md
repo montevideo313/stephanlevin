@@ -13,5 +13,5 @@ This repository hosts scripts and other digital content used for my personal por
 
 ## model-viewer
 
-HTML scripts used for the 3D Anatomy player on my website, using <a href="https://modelviewer.dev" target="_blank">Google's model-viewer web component.</a>
+HTML scripts used for the 3D Anatomy player on my website, using [Google's model-viewer web component](https://modelviewer.dev).
 The scripts are embedded using an iframe element.
