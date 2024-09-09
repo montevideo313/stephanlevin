@@ -10,6 +10,7 @@ This repository hosts scripts and other digital content used for my personal por
 [model-viewer](#modelviewer)
 
 <a name="modelviewer"/>
+
 ## model-viewer
 
 HTML scripts used for the 3D Anatomy player on my portfolio website.
