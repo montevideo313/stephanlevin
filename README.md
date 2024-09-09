@@ -7,9 +7,9 @@
 This repository hosts scripts and other digital content used for my personal portfolio website [stephanlevin.com](https://ww.stephanlevin.com).
 
 # Contents
-[<model-viewer](#modelviewer)
+[model-viewer](#modelviewer)
 
 <a name="modelviewer"/>
-## <mode-viewer>
+## model-viewer
 
 HTML scripts used for the 3D Anatomy player on my portfolio website.
